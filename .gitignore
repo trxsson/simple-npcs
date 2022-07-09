@@ -27,4 +27,8 @@ target/
 !lib/**
 
 # Compiled Files
+<<<<<<< HEAD
 *.class
+=======
+*.class
+>>>>>>> 7866840 (initial commit)
